@@ -1,0 +1,16 @@
+[project]
+name = "ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "manim>=0.20.1",
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.2",
+    "opencv-python-headless>=5.0.0.93",
+    "pillow>=12.3.0",
+    "scikit-image>=0.26.0",
+    "scipy>=1.18.0",
+    "svgwrite>=1.4.3",
+]
